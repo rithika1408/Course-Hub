@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Pega-Codeset-Patch: 
+Engine-Version: 08-06-03
+Pega-Codeset-Version: 06-01-01
+ArtifactName: CourseHub
+Synchronizable: false
+ArtifactVersion: 01.01.01
+Type: Product
+Product-Creation-Date: 2022-Jan-24 00:00:00
+PRPC-Engine: 8.6.2 PRPC-8.6.2-382 ()
+Operator: SSA@TGB
+ArtifactType: application
+Pega-Archive-Type: ApplicationBundle
+Name: CourseHub_010101_20220124T151103_GMT.zip
+Archive-Type: PegaArchive
+Export-Date: 2022-Jan-24 10:11:19
+Pega-Codeset-Name: Customer
+Instance-Count: 11565
+
+Name: FileMetadata
+
